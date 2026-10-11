@@ -243,6 +243,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[ScreenshotOne](https://github.com/screenshotone/mcp/)** - Render website screenshots with [ScreenshotOne](https://screenshotone.com/)
 - **[Semgrep](https://github.com/semgrep/mcp)** - Enable AI agents to secure code with [Semgrep](https://semgrep.dev/).
 - **[Sentry](https://github.com/getsentry/sentry-mcp)** - Official MCP server for [Sentry](https://sentry.io).
+- **[Silicon Floor](https://github.com/Baptoshi/silicon-floor)** - Who owns AI and semiconductor stocks, who is buying and selling them, and what their filed numbers say — rebuilt from SEC filings and FINRA, every figure dated and linked to its source. Remote, read-only, no key: [https://siliconfloor.com/mcp](https://siliconfloor.com/mcp)
 - **[SingleStore](https://github.com/singlestore-labs/mcp-server-singlestore)** - Interact with the SingleStore database platform
 - **[SlideSpeak](https://github.com/SlideSpeak/slidespeak-mcp)** - Create presentations and PowerPoints using AI and SlideSpeak MCP
 - **[SonarQube](https://github.com/SonarSource/sonarqube-mcp-server)** - Provides seamless integration with [SonarQube](https://www.sonarsource.com/) Server or Cloud, and enables analysis of code snippets directly within the agent context
